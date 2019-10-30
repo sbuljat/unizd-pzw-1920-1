@@ -1,0 +1,11 @@
+<script>
+    
+        var broj=1;
+        var sNiz=["Niz znakova"];
+        var sNizZnakova=[3,14];
+        var Niz3=["\n"+"\n"];
+        var slogicka=true;
+        document.write(slogicka+" "+sNiz+" "+sNizZnakova+Niz3);
+        slogicka=false;
+        document.write(slogicka);
+    </script>
